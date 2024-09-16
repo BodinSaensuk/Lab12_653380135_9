@@ -1,0 +1,19 @@
+1726504370064	geckodriver	INFO	Listening on 127.0.0.1:52611
+1726504373140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bodin\\AppData\\Local\\Temp\\rust_mozprofile5fLl7H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726504376154	Marionette	INFO	Marionette enabled
+1726504376247	Marionette	INFO	Listening on port 52621
+WebDriver BiDi listening on ws://127.0.0.1:52612
+Read port: 52621
+1726504376343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52612/devtools/browser/e0bead04-72c3-4df6-a03b-7e9a48d3e6cb
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+1726505130303	Marionette	INFO	Stopped listening on port 52621
+Dynamically enable window occlusion 1

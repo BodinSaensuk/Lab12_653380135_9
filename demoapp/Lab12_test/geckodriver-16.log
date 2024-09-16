@@ -1,0 +1,24 @@
+1726505157636	geckodriver	INFO	Listening on 127.0.0.1:53358
+1726505160697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bodin\\AppData\\Local\\Temp\\rust_mozprofiler1rmfQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726505160923	Marionette	INFO	Marionette enabled
+1726505161017	Marionette	INFO	Listening on port 53382
+WebDriver BiDi listening on ws://127.0.0.1:53359
+Read port: 53382
+1726505161133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53359/devtools/browser/732fe58f-dae7-407e-989f-4a412fb2729b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:7272."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:7272."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:7272."
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Success.html?firstname=Somsri&lastname=Sodsai&organization=CS+KKU&email=somsri%40kkumail.com&phone=081-001-1234" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Success.html?firstname=Somsri&lastname=Sodsai&organization=CS+KKU&email=somsri%40kkumail.com&phone=081-001-1234" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Success.html?firstname=Somsri&lastname=Sodsai&organization=CS+KKU&email=somsri%40kkumail.com&phone=081-001-1234" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Success.html?firstname=Somsri&lastname=Sodsai&organization=CS+KKU&email=somsri%40kkumail.com&phone=081-001-1234" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Success.html?firstname=Somsri&lastname=Sodsai&organization=CS+KKU&email=somsri%40kkumail.com&phone=081-001-1234" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://localhost:7272/Lab12/Registration.html" ({})
